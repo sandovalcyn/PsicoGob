@@ -4,9 +4,13 @@ Un proyecto realizado para mejorar los desequilibrios psicológicos en estudiant
 integrantes del proyecto:
 
 Jeremy Garcia (cv3587@innovaccion.mx)
+
 Eric Valenzuela  (cv2741@innovaccion.mx)
+
 Arturo Hernandez  (cv1159@innovaccion.mx)
+
 Ana Pilar    (cv1072@innovaccion.mx)
+
 Cynthia Sandoval (cv2174@innovaccion.mx)
  
 
@@ -25,9 +29,11 @@ que pueden tener los estudiantes. Todo gratuito, construyendo una mejora a futur
 Sabemos que pagar terapia es costoso, por lo que sería excelente que el gobierno implementara un proyecto como este y se les informara a todas
 las escuelas y universidade públicas.
 
+
 ### Link al Tiktok
 
 https://www.tiktok.com/@cynthiasandoval6/video/6991408461447826694?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6991407521739671046
+
 
 
 ### Diagrama de Azure
