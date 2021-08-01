@@ -1,6 +1,14 @@
 # PsicoGob
 Un proyecto realizado para mejorar los desequilibrios psicológicos en estudiantes.
 
+integrantes del proyecto:
+
+Jeremy Garcia (cv3587@innovaccion.mx)
+Eric Valenzuela  (cv2741@innovaccion.mx)
+Arturo Hernandez  (cv1159@innovaccion.mx)
+Ana Pilar    (cv1072@innovaccion.mx)
+Cynthia Sandoval (cv2174@innovaccion.mx)
+ 
 
 ![Summer Hack (4)](https://user-images.githubusercontent.com/9124597/127756851-c8627116-f177-4198-966d-9003016d2060.png)
 
@@ -30,6 +38,9 @@ https://www.tiktok.com/@cynthiasandoval6/video/6991408461447826694?lang=es&is_co
 
 ### SLA Compuesto
 
+![image](https://user-images.githubusercontent.com/86864018/127768708-8be00a0d-733e-4ecf-b7e1-ee270ffb56b5.png)
+
+
 ### TCO 3 años y Precio Total por mes
 
 
@@ -44,4 +55,22 @@ on-premises                      /                       Azure Cost
 
 ### Tiempo sin disponibilidad a un año
 
+
+![image](https://user-images.githubusercontent.com/86864018/127768725-f19fd4fa-ddeb-42f4-b0ac-e431a8b5441a.png)
+
+
+
 ### Qué te pareció el evento
+
+
+Es el primer hackathón de todo mi equipo, son de las experiencias mas presionantes que pudimos tener todos
+pero a la vez es la mejor experiencia que hemos vivido, esto no se aprende en la escuela.
+Es increible que un grupo de jovenes este impartiendo estos cursos, son un orgullo para México.
+Desde que empezo el hackathón nos dieron muchas sorpresas, todo un ambiente sano y divertido, jamas habiamos aprendido
+con tanta felicidad y emocion. Aun tenemos cosas que aprender y lo averiguamos en este proyecto. Fallamos, nos levantamos y seguimos fallando...
+pero se aprende de los errores y eso fue el aprendizaje que nos dejo este hackathón.
+Experiencias inolvidables nos hemos llevado y que las volveriamos a vivir 10 000... veces mas
+Gracias por enseñarnos mucho
+Con amor y Cariño
+
+#CloudSurfers #CloudRangers
