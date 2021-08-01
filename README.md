@@ -1,6 +1,4 @@
 # PsicoGob
-![image](https://user-images.githubusercontent.com/86864018/127769192-9ffe4e56-ce1f-4796-90bb-d91fe46fe114.png)
-
 
 
 Un proyecto realizado para mejorar los desequilibrios psicológicos en estudiantes.
@@ -24,6 +22,10 @@ Cynthia Sandoval (cv2174@innovaccion.mx)
 
 
 PsicoGob
+
+
+![image](https://user-images.githubusercontent.com/86864018/127769214-f39cafbe-11fd-46d0-8d70-3f1bfad8e304.png)
+
 
 ### Descripción del Proyecto a Entregar (Corta)
 
