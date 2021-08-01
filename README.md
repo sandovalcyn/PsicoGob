@@ -1,4 +1,8 @@
 # PsicoGob
+![image](https://user-images.githubusercontent.com/86864018/127769192-9ffe4e56-ce1f-4796-90bb-d91fe46fe114.png)
+
+
+
 Un proyecto realizado para mejorar los desequilibrios psicológicos en estudiantes.
 
 integrantes del proyecto:
