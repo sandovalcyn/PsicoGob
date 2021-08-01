@@ -7,8 +7,12 @@ Un proyecto realizado para mejorar los desequilibrios psicológicos en estudiant
 ### Descripción del Proyecto a Entregar (Corta)
 
 ### Link al Tiktok
+https://www.tiktok.com/@cynthiasandoval6/video/6991408461447826694?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6991407521739671046
+
 
 ### Diagrama de Azure
+![image](https://user-images.githubusercontent.com/86864018/127768102-7f1a2ccf-5e0a-4668-bae5-256eaab68c7e.png)
+
 
 ### SLA Compuesto
 
