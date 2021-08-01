@@ -75,8 +75,10 @@ Es increible que un grupo de jovenes este impartiendo estos cursos, son un orgul
 Desde que empezo el hackathón nos dieron muchas sorpresas, todo un ambiente sano y divertido, jamas habiamos aprendido
 con tanta felicidad y emocion. Aun tenemos cosas que aprender y lo averiguamos en este proyecto. Fallamos, nos levantamos y seguimos fallando...
 pero se aprende de los errores y eso fue el aprendizaje que nos dejo este hackathón.
-Experiencias inolvidables nos hemos llevado y que las volveriamos a vivir 10 000... veces mas
+Experiencias inolvidables nos hemos llevado y que las volveriamos a vivir 10 000... veces mas.
+
 Gracias por enseñarnos mucho
+
 Con amor y Cariño
 
 #CloudSurfers #CloudRangers
