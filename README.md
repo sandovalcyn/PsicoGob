@@ -27,8 +27,8 @@ https://www.tiktok.com/@cynthiasandoval6/video/6991408461447826694?lang=es&is_co
 ![image](https://user-images.githubusercontent.com/86864018/127768294-489ab9a1-cc8b-4395-951a-482c9d3cdec7.png)
 ![image](https://user-images.githubusercontent.com/86864018/127768512-082167d7-8fec-40ab-bc6c-f4eb313eec1f.png)
 
-on-premises    /     Azure Cost
-
+on-premises                      /                       Azure Cost
+ 
 ![image](https://user-images.githubusercontent.com/86864018/127768525-da7378b0-cd84-4674-be51-6b85b16def9c.png)
 
 
